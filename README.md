@@ -27,7 +27,9 @@ or
 ```
 yarn add --dev @welldone-software/why-did-you-render
 ```
-
+```
+my name is Muhammadabdulloh I am a junior software engineer
+```
 If you use the `automatic` JSX transformation, set the library to be the import source, and make sure `preset-react` is in `development` mode.
 ```js
 ['@babel/preset-react', {
